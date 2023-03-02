@@ -1,31 +1,38 @@
 {
+  "couponsEnabled": false,
   "pages": [
     {
+      "type": "sunset",
       "screenName": "Home_Page",
       "enabled": true,
       "text": "¡Descarga nuestra nueva aplicación! A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!"
     },
     {
+      "type": "url",
       "screenName": "Product_Details_Page",
       "enabled": true,
       "text": "¡Descarga nuestra nueva aplicación! A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!"
     },
     {
+      "type": "sunset",
       "screenName": "Category_Page",
       "enabled": true,
       "text": "¡Descarga nuestra nueva aplicación! A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!"
     },
     {
+      "type": "sunset",
       "screenName": "Brand_Page",
       "enabled": true,
       "text": "¡Descarga nuestra nueva aplicación! A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!"
     },
     {
+      "type": "sunset",
       "screenName": "Cart_Page",
       "enabled": true,
       "text": "¡Descarga nuestra nueva aplicación! A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!"
     },
     {
+      "type": "sunset",
       "screenName": "Drawer_Menu",
       "enabled": true,
       "text": "¡Descarga nuestra nueva aplicación! A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!"
@@ -47,6 +54,7 @@
         "type": "paragraph"
       }
     ],
+    "button_text": "Descargar",
     "googleplay": "https://play.google.com/store/apps/details?id=mx.com.modelorama.now&hl=en_US&gl=US",
     "enabled": true
   }
