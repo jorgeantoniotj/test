@@ -1,5 +1,5 @@
 {
-  "data": [
+  "pages": [
     {
       "screenName": "Home_Page",
       "enabled": true,
@@ -30,5 +30,24 @@
       "enabled": true,
       "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     }
-  ]
+  ],
+  "migrationInfo": {
+    "appstore": "https://apps.apple.com/mx/app/tada-delivery-de-bebidas-mx/id1570144417",
+    "content": [
+      {
+        "type": "image",
+        "url": "https://images.prismic.io/store-cms/63902498-760c-4f36-8ee1-b78a3bb08bf6_ZeDelivery_ilustrac%CC%A7a%CC%83o-40.png?auto=compress,format"
+      },
+      {
+        "text": "¡Descarga nuestra nueva aplicación!",
+        "type": "heading1"
+      },
+      {
+        "text": "A partir de hoy, necesitarás la nueva aplicación para realizar pedidos en TaDa Delivery de Bebidas.  Descárgala e ingresa con tu mismo usuario y contraseña. ¡No te pierdas una buena cerveza fría!",
+        "type": "paragraph"
+      }
+    ],
+    "googleplay": "https://play.google.com/store/apps/details?id=mx.com.modelorama.now&hl=en_US&gl=US",
+    "enabled": true
+  }
 }
